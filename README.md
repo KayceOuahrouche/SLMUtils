@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/865861171.svg)](https://doi.org/10.5281/zenodo.13867920)
+
 A small utility script to generate phase patterns to address SLM's, using the GS-MRAF algorithm. 
 
 [1] Gerchberg, R. W.; Saxton, W. O. (1972). "A practical algorithm for the determination of the phase from image and diffraction plane pictures". Optik. 35: 237–246.
